@@ -83,22 +83,6 @@ When I'm not shipping production code, I run a home lab that would make a small 
 
 My thesis bridged my professional and personal interests: a **solar-powered IoT phishing awareness system** that educates users about social engineering attacks. It involved ESP8266 development, reverse engineering firmware with Ghidra, and building a fully self-sufficient embedded system.
 
-## 📌 Featured Projects
-
-<a href="https://github.com/gabrielradzki/phishable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielradzki&repo=phishable&theme=tokyonight" />
-</a>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielradzki&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielradzki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 📫 Get in Touch
 
 [![Instagram](https://img.shields.io/badge/@gabrielradzki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielradzki)
