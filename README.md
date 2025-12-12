@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** with 10+ years building web applications at scale
 
-Brazilian developer who loves understanding systems end-to-end — from frontend pixels to backend services, from cloud infrastructure to bare metal. I write code professionally and reverse engineer hardware for fun.
+Brazilian developer who loves understanding systems end-to-end — from frontend pixels to backend services, from cloud infrastructure to bare metal. I write code professionally and reverse engineer hardware and software for fun.
 
 ## 💼 Professional Work
 
