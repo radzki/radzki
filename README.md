@@ -1,7 +1,5 @@
 # Hey! I'm Gabriel 👋
 
-# Olá! 👋 I'm Gabriel Radzki
-
 **Senior Software Engineer** with 10+ years building web applications at scale
 
 Brazilian developer who loves understanding systems end-to-end — from frontend pixels to backend services, from cloud infrastructure to bare metal. I write code professionally and reverse engineer hardware for fun.
