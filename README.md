@@ -4,6 +4,11 @@
 
 Brazilian developer who loves understanding systems end-to-end — from frontend pixels to backend services, from cloud infrastructure to bare metal. I write code professionally and reverse engineer hardware and software for fun.
 
+Take a look at my blog:
+
+[<img width="419" height="159" alt="image" src="https://github.com/user-attachments/assets/6e234906-7d6c-4977-94a0-967cf0cd9fd9" />](https://notes.radzkitech.com/)
+
+
 ## 💼 Professional Work
 
 I've spent over a decade building and scaling web applications, working across the entire stack:
