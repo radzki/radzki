@@ -31,7 +31,7 @@ When I'm not shipping production code, I run a home lab that would make a small 
 
 **B.Sc. Computer Engineering** — PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul)
 
-My thesis bridged my professional and personal interests: a **solar-powered IoT phishing awareness system** that educates users about social engineering attacks. It involved ESP8266 development, reverse engineering firmware with Ghidra, and building a fully self-sufficient embedded system.
+My thesis bridged my professional and personal interests: a **[solar-powered IoT phishing awareness system](https://github.com/radzki/SunPhish)** that educates users about social engineering attacks. It involved ESP8266 development, reverse engineering firmware with Ghidra, and building a fully self-sufficient embedded system.
 
 ## 📫 Get in Touch
 
