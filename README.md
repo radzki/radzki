@@ -42,7 +42,7 @@ My thesis bridged my professional and personal interests: a **[solar-powered IoT
 
 <p align="center">
   <i>"Do not pity the dead, Harry. Pity the living. And above all, those who live without love."</i><br>
-  <sub>— Dumbledore</sub>
+  <sub>— APWBD </sub>
 </p>
 
 <p align="center">
